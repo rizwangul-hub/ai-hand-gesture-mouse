@@ -1,0 +1,91 @@
+[2026-11-06 21:03:59] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:04:05] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:04:16] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:04:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpelzey1a4.json
+[2026-11-06 21:04:16] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\AppData\Local\Temp\tmpelzey1a4.json
+[2026-11-06 21:04:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpp7oh2ep5.json
+[2026-11-06 21:04:16] [INFO] [MainThread] HandMouse: Applied profile: Precision Control
+[2026-11-06 21:04:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpp7oh2ep5.json
+[2026-11-06 21:04:16] [INFO] [MainThread] HandMouse: Applied profile: Presentation
+[2026-11-06 21:04:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpdh0ivan0.json
+[2026-11-06 21:04:16] [INFO] [MainThread] HandMouse: Saved custom profile 'HighSpeedCustom'
+[2026-11-06 21:04:21] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:04:38] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:04:48] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:04:51] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:51] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:51] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpz9nz9o8k.json
+[2026-11-06 21:04:51] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\AppData\Local\Temp\tmpz9nz9o8k.json
+[2026-11-06 21:04:51] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:51] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmp7a2r1k83.json
+[2026-11-06 21:04:51] [INFO] [MainThread] HandMouse: Applied profile: Precision Control
+[2026-11-06 21:04:51] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmp7a2r1k83.json
+[2026-11-06 21:04:51] [INFO] [MainThread] HandMouse: Applied profile: Presentation
+[2026-11-06 21:04:51] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:04:51] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpju8h8x_c.json
+[2026-11-06 21:04:51] [INFO] [MainThread] HandMouse: Saved custom profile 'HighSpeedCustom'
+[2026-11-06 21:04:51] [INFO] [MainThread] HandMouse: Emergency release: mouse buttons released.
+[2026-11-06 21:04:52] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:04:52] [INFO] [MainThread] HandMouse: Starting Hand Control Engine...
+[2026-11-06 21:04:52] [INFO] [MainThread] HandMouse: Hand Control Engine stopped.
+[2026-11-06 21:04:52] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:04:52] [INFO] [MainThread] HandMouse: Tracking paused by user.
+[2026-11-06 21:04:52] [INFO] [MainThread] HandMouse: Tracking resumed by user.
+[2026-11-06 21:04:53] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:04:53] [WARNING] [MainThread] HandMouse: Emergency stop triggered!
+[2026-11-06 21:05:05] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:05:15] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:05:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:05:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:05:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpwzaujj3e.json
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\AppData\Local\Temp\tmpwzaujj3e.json
+[2026-11-06 21:05:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:05:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmp88m8njzq.json
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Applied profile: Precision Control
+[2026-11-06 21:05:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmp88m8njzq.json
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Applied profile: Presentation
+[2026-11-06 21:05:16] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:05:16] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmptnpvqlad.json
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Saved custom profile 'HighSpeedCustom'
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Emergency release: mouse buttons released.
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Starting Hand Control Engine...
+[2026-11-06 21:05:16] [INFO] [MainThread] HandMouse: Hand Control Engine stopped.
+[2026-11-06 21:05:17] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:05:17] [INFO] [MainThread] HandMouse: Tracking paused by user.
+[2026-11-06 21:05:17] [INFO] [MainThread] HandMouse: Tracking resumed by user.
+[2026-11-06 21:05:17] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:05:17] [WARNING] [MainThread] HandMouse: Emergency stop triggered!
+[2026-11-06 21:06:34] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:06:35] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:06:35] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:06:35] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpe5dizd17.json
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\AppData\Local\Temp\tmpe5dizd17.json
+[2026-11-06 21:06:35] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:06:35] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpkpm8sjlr.json
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Applied profile: Precision Control
+[2026-11-06 21:06:35] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmpkpm8sjlr.json
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Applied profile: Presentation
+[2026-11-06 21:06:35] [ERROR] [MainThread] HandMouse: Failed to parse settings file: Expecting value: line 1 column 1 (char 0). Using defaults.
+[2026-11-06 21:06:35] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\AppData\Local\Temp\tmp8pvotowp.json
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Saved custom profile 'HighSpeedCustom'
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Emergency release: mouse buttons released.
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Starting Hand Control Engine...
+[2026-11-06 21:06:35] [INFO] [MainThread] HandMouse: Hand Control Engine stopped.
+[2026-11-06 21:06:36] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:06:36] [INFO] [MainThread] HandMouse: Tracking paused by user.
+[2026-11-06 21:06:36] [INFO] [MainThread] HandMouse: Tracking resumed by user.
+[2026-11-06 21:06:36] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:06:36] [WARNING] [MainThread] HandMouse: Emergency stop triggered!
+[2026-11-06 21:06:55] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:23:11] [INFO] [MainThread] HandMouse: Settings loaded successfully from C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:23:16] [INFO] [MainThread] HandMouse: Initializing AI Hand Gesture Control System...
+[2026-11-06 21:23:17] [INFO] [MainThread] HandMouse: Initialized MediaPipe Tasks HandLandmarker successfully.
+[2026-11-06 21:23:18] [INFO] [GlobalHotkeys] HandMouse: Registered global hotkeys: Ctrl+Alt+H (Toggle), Ctrl+Alt+P (Pause), Ctrl+Alt+Q (Emergency)
+[2026-11-06 21:23:20] [DEBUG] [MainThread] HandMouse: Saved settings to C:\Users\HP\.hand_mouse_ai\config.json
+[2026-11-06 21:23:20] [INFO] [MainThread] HandMouse: Application main window launched.
