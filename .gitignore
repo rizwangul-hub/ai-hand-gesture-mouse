@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller / Build
+dist/
+build/
+*.spec
+
+# Testing
+.pytest_cache/
+
+# User Settings / Local data
+*.tmp
